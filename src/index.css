@@ -1,0 +1,9 @@
+body {
+  background-color: #f5f7fa;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+.navbar .nav-link.active {
+  color: #ffc107 !important;
+  font-weight: 600;
+}
